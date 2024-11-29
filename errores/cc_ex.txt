@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='//26.246.95.16/Users/Public/Videos/private/api/errores//cc_ex.txt' mode='w' encoding='cp1252'>
